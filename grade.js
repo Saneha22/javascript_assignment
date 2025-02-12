@@ -11,3 +11,7 @@
     else if ( marks < 50 ) {
         console.log (" The student has F grade");
     }
+
+    /* output
+    The student is passed with B grade.
+    */
